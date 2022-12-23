@@ -1,0 +1,14 @@
+img{
+  border-radius: 50%;
+  width:10%;
+  height:auto;
+  float:left;
+  padding-right: 1%;
+}
+.btn1{
+  margin-left: 20%;
+
+}
+.btn2{
+  margin-right: 20%;
+}

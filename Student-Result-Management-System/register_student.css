@@ -1,0 +1,31 @@
+body {
+    background-color: #4f70b6;
+}
+.front-page{
+    width: 600px;
+    background-color: #ffffff;
+    box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.3);
+    margin: 50px auto;
+}
+.front-page h1 {
+    text-align: center;
+    color: #5b6574;
+    font-size: 24px;
+    padding: 20px 0 20px 0;
+    border-bottom: 1px solid #dee0e4;
+}
+.submitted{
+    color:green;
+    text-align: center;
+}
+
+
+@media (max-width:500px){
+    .front-page{
+        width: auto;
+        background-color: #ffffff;
+        box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.3);
+        margin: 100px 20px;
+    }
+  
+}
